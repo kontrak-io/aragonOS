@@ -30,7 +30,7 @@
   "contributors": [
     ""
   ],
-  "repository": "https://github.com/aragon/aragonOS",
+  "repository": "https://github.com/kontrak-io/aragonOS.git",
   "license": "(GPL-3.0-or-later OR MIT)",
   "devDependencies": {
     "coveralls": "^2.13.3",
